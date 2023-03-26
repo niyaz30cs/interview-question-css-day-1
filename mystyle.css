@@ -1,0 +1,57 @@
+.one
+{
+    background-color: greenyellow;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.list
+{
+    list-style-type: disc;
+}
+.list2
+{
+    list-style-type: disc;
+}
+ol li{
+    font-size: large;
+    font-weight: bold;
+}
+ol li p{
+    font-size: large;
+    font-weight: bold;
+}
+p {
+    font-size: large;
+    font-weight: bold;
+}
+.step1
+{
+    background-color: blue;
+    color: white;
+}
+.step2
+{
+    background-color: aqua;
+}
+.step3
+{
+    background-color: cornflowerblue;
+    color: white;
+}
+.step4
+{
+    background-color: red;
+}
+.step5
+{
+    background-color: darkorange;
+}
+.step6
+{
+    background-color: forestgreen;
+    color: white;
+}
+.step7
+{
+    background-color: gold;
+}
